@@ -1,0 +1,22 @@
+Put the 14 videos in this folder with these exact file names (all .mp4):
+
+01-base44-amanda.mp4
+02-gamdom.mp4
+03-gimi-agent-video-4.mp4
+04-veed-i-used-to-think.mp4
+05-nivea.mp4
+06-volt-energy-drink.mp4
+07-bria-create.mp4
+08-maiphamle-anime.mp4
+09-maiphamle-product-reveal.mp4
+10-mexc-score-insight.mp4
+11-mexc-opportunity-compass.mp4
+12-openllm.mp4
+13-reichman-university.mp4
+14-confession-of-diane-marlowe.mp4
+
+What each video does on the site:
+- The frame shows the video's first frame as line-art, like the avatar and wordmark.
+- Hover (or scroll it into view on a phone) and it flips to full colour and plays.
+- Click it and it opens full size, with sound and controls.
+- A missing file just shows a designed cover, so the site never looks broken.
